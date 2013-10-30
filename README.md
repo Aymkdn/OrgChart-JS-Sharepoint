@@ -9,7 +9,7 @@ This script is just a quick share of something I did in my job. You probably wan
 
 # Example
 
-See the screenshots in the [examples forlder](https://github.com/Aymkdn/OrgChart-JS-Sharepoint/examples/).
+See the screenshots in the [examples folder](https://github.com/Aymkdn/OrgChart-JS-Sharepoint/tree/master/examples).
 
 Quick Start
 ===========
@@ -43,9 +43,9 @@ You'll have to include three JavaScript files:
 
   - [jQuery](http://jquery.com/)
   - [SharepointPlus](http://aymkdn.github.io/SharepointPlus/)
-  - [orgchart.js](https://github.com/Aymkdn/OrgChart-JS-Sharepoint/orgchart.js)
+  - [orgchart.js](https://github.com/Aymkdn/OrgChart-JS-Sharepoint/blob/master/orgchart.js)
 
-And the CSS file called [orgchart.css](https://github.com/Aymkdn/OrgChart-JS-Sharepoint/orgchart.css).
+And the CSS file called [orgchart.css](https://github.com/Aymkdn/OrgChart-JS-Sharepoint/blob/master/orgchart.css).
 
 And finally a simple HTML tag: `<div id="orgchart"></div>`
 
