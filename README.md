@@ -23,7 +23,7 @@ The org chart information must be stored into a Sharepoint List.
 
 Start by creating a new basic Sharepoint List called `Org Chart`.
 
-### Add 8 columns
+### Add 7 columns
 
 Create the below columns:
 
@@ -33,7 +33,16 @@ Create the below columns:
   - `Description` - single line of text (it will be the "job title")
   - `Image` - multiple lines of text (this is an url to the picture)
   - `ManagerID` - this is the `UserID` of the manager (in lower case)
-  - `Responsabilities` - if you want to store some responsabilities/details about the user
+  - `Responsabilities` - multiple lines of text ; if you want to store some responsabilities/details about the user (one responsability by line)
+
+Example of the content for each column:
+  - `FirstName`: John
+  - `LastName`: Doe
+  - `UserID`: john_doe
+  - `Description`: Marketing Director
+  - `Image`: http://www.mysite.com/pictures/john_doe.png
+  - `ManagerID`: big_boss
+  - `Responsabilities`: Marketing stuff
 
 ### Create your HTML page
 
