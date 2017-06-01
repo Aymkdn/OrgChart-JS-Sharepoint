@@ -1,3 +1,8 @@
+[DEPRECATED]
+============
+
+**This project is very old** and shouldn't be considered safe to use. It will stand here for your information and inspiration.
+
 OrgChart-JS-Sharepoint
 ======================
 
